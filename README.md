@@ -1,5 +1,7 @@
 # Supermarket Campaign Analysis
 
+![image](https://github.com/Jeremyanthony04/Supermarket_Campaign_Analysis/assets/102398975/f0001bba-7900-4f40-be63-b7330e86abed)
+
 This analysis is made for the marketing team of the supermarket to influence their customers into joining the upcoming campaigns and hopefully the supermarket can increase their revenues.
 
 Background Supermarket:
